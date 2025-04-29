@@ -1,5 +1,5 @@
 # **QuantEcon: A First Course in Quantitative Economics with Python - Projects by Jorge Pineño**
-A series of short projects built upon and inspired by the lectures in the course by QuantEcon
+A short series of projects built upon some lectures in the course by QuantEcon
 ## **Projects**
 Projects are uploaded as either a single notebook, or a folder, in the case that the project makes use of off-line datasets or other additional files
 ## **QuantEcon**
